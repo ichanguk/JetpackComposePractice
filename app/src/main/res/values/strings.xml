@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">JetpackComposePractice</string>
     <string name="title_activity_text">TextActivity</string>
+    <string name="title_activity_button_toast">ButtonToastActivity</string>
 </resources>
