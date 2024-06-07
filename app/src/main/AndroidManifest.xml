@@ -15,16 +15,21 @@
         android:theme="@style/Theme.JetpackComposePractice"
         tools:targetApi="31">
         <activity
-            android:name=".ImageActivity"
+            android:name=".BoxActivity"
             android:exported="true"
-            android:label="@string/title_activity_image"
-            android:theme="@style/Theme.JetpackComposePractice" >
+            android:label="@string/title_activity_box"
+            android:theme="@style/Theme.JetpackComposePractice">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ImageActivity"
+            android:exported="true"
+            android:label="@string/title_activity_image"
+            android:theme="@style/Theme.JetpackComposePractice"/>
         <activity
             android:name=".TextFieldActivity"
             android:exported="true"
@@ -34,7 +39,7 @@
             android:name=".ColumnSpacerDividerActivity"
             android:exported="true"
             android:label="@string/title_activity_column_spacer_divider"
-            android:theme="@style/Theme.JetpackComposePractice"/>
+            android:theme="@style/Theme.JetpackComposePractice" />
         <activity
             android:name=".RememberActivity"
             android:exported="true"
