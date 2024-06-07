@@ -16,4 +16,5 @@
     <string name="title_activity_lazy_column">LazyColumnActivity</string>
     <string name="title_activity_lazy_row">LazyRowActivity</string>
     <string name="title_activity_progress_indicator">ProgressIndicatorActivity</string>
+    <string name="title_activity_code_editing">CodeEditingActivity</string>
 </resources>
