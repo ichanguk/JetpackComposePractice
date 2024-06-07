@@ -4,4 +4,5 @@
     <string name="title_activity_button_toast">ButtonToastActivity</string>
     <string name="title_activity_remember">RememberActivity</string>
     <string name="title_activity_column_spacer_divider">ColumnSpacerDividerActivity</string>
+    <string name="title_activity_text_field">TextFieldActivity</string>
 </resources>
