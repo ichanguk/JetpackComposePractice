@@ -17,6 +17,31 @@
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/TextActivity.kt">Text</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ButtonToastActivity.kt">Button, Toast</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/RememberActivity.kt">remember</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ColumnSpacerDividerActivity.kt">column / spacer / divider</td>
+    </tr>
+        <tr>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/TextFieldActivity.kt">TextField</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ImageActivity.kt">Image</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/BoxActivity.kt">Box</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/RowActivity.kt">Row</td>
+    </tr>
+        <tr>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ColumnRowActivity.kt">Column + Row</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/CardActivity.kt">Card</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/CardActivity.kt">WebView</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/SurfaceActivity.kt">Surface</td>
+    </tr>
+        <tr>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ScaffoldActivity.kt">Scaffold</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/LazyColumnActivity.kt">LazyColumn</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/LazyRowActivity.kt">LazyRow</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ProgressIndicatorActivity.kt">ProgressIndicator</td>
+    </tr>
+        </tr>
+        <tr>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/CodeEditingActivity.kt">CodeEditing</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ShowHideActivity.kt">Show / Hide</a></td>
+        <td></td>
         <td></td>
     </tr>
   </tbody>
