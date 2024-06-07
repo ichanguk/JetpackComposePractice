@@ -15,9 +15,9 @@
         android:theme="@style/Theme.JetpackComposePractice"
         tools:targetApi="31">
         <activity
-            android:name=".ScaffoldActivity"
+            android:name=".LazyColumnActivity"
             android:exported="true"
-            android:label="@string/title_activity_scaffold"
+            android:label="@string/title_activity_lazy_column"
             android:theme="@style/Theme.JetpackComposePractice" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,10 +26,15 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".ScaffoldActivity"
+            android:exported="true"
+            android:label="@string/title_activity_scaffold"
+            android:theme="@style/Theme.JetpackComposePractice"/>
+        <activity
             android:name=".SurfaceActivity"
             android:exported="true"
             android:label="@string/title_activity_surface"
-            android:theme="@style/Theme.JetpackComposePractice"/>
+            android:theme="@style/Theme.JetpackComposePractice" />
         <activity
             android:name=".WebViewActivity"
             android:exported="true"
