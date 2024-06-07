@@ -15,9 +15,9 @@
         android:theme="@style/Theme.JetpackComposePractice"
         tools:targetApi="31">
         <activity
-            android:name=".CodeEditingActivity"
+            android:name=".ShowHideActivity"
             android:exported="true"
-            android:label="@string/title_activity_code_editing"
+            android:label="@string/title_activity_show_hide"
             android:theme="@style/Theme.JetpackComposePractice">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,10 +26,15 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".CodeEditingActivity"
+            android:exported="true"
+            android:label="@string/title_activity_code_editing"
+            android:theme="@style/Theme.JetpackComposePractice"/>
+        <activity
             android:name=".ProgressIndicatorActivity"
             android:exported="true"
             android:label="@string/title_activity_progress_indicator"
-            android:theme="@style/Theme.JetpackComposePractice"/>
+            android:theme="@style/Theme.JetpackComposePractice" />
         <activity
             android:name=".LazyRowActivity"
             android:exported="true"
