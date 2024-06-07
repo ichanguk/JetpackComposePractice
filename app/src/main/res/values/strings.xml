@@ -8,4 +8,5 @@
     <string name="title_activity_image">ImageActivity</string>
     <string name="title_activity_box">BoxActivity</string>
     <string name="title_activity_row">RowActivity</string>
+    <string name="title_activity_column_row">ColumnRowActivity</string>
 </resources>
