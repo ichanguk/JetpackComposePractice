@@ -12,4 +12,5 @@
     <string name="title_activity_card">CardActivity</string>
     <string name="title_activity_web_view">WebViewActivity</string>
     <string name="title_activity_surface">SurfaceActivity</string>
+    <string name="title_activity_scaffold">ScaffoldActivity</string>
 </resources>
