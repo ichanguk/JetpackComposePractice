@@ -98,27 +98,25 @@ fun MyDrawer() {
                             })
                     }
                 }
-            },
-            content = {
-                Column(
-                    modifier = Modifier
-                        .fillMaxSize()
-                        .padding(20.dp),
-                    horizontalAlignment = Alignment.CenterHorizontally,
-                    verticalArrangement = Arrangement.Center
-                ) {
-                    when (selectedScreen.value) {
-                        Screen.Home -> HomeScreen()
-                        Screen.Settings -> SettingsScreen()
-                        Screen.Phone -> PhoneScreen()
-                        Screen.Search -> SearchScreen()
-                        Screen.Lock -> LockScreen()
+            }
+        ) {
+            Column(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(20.dp),
+                horizontalAlignment = Alignment.CenterHorizontally,
+                verticalArrangement = Arrangement.Center
+            ) {
+                when (selectedScreen.value) {
+                    Screen.Home -> HomeScreen()
+                    Screen.Settings -> SettingsScreen()
+                    Screen.Phone -> PhoneScreen()
+                    Screen.Search -> SearchScreen()
+                    Screen.Lock -> LockScreen()
 
-                    }
                 }
             }
-
-        )
+        }
 
     }
 
