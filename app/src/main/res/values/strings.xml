@@ -21,4 +21,5 @@
     <string name="title_activity_navigation">NavigationActivity</string>
     <string name="title_activity_retrofit">RetrofitActivity</string>
     <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="title_activity_dialog">DialogActivity</string>
 </resources>
