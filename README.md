@@ -41,21 +41,14 @@
       <tr>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/CodeEditingActivity.kt">CodeEditing</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ShowHideActivity.kt">Show / Hide</a></td>
-        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ShowHideActivity.kt">Show / Hide</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/NavigationActivity.kt">Navigation</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/RetrofitActivity.kt">Retrofit</a></td>
       </tr>
             <tr>
-        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/RetrofitActivity.kt">Retrofit</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/RetrofitActivity.kt">Drawer</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/DialogActivity.kt">Dialog</a></td>
-        <td></td>
-      </tr>
-      <tr>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/CanvasActivity.kt">Canvas</a></td>
         <td></td>
-        <td></td>
-        <td></td>
       </tr>
-
   </tbody>
 </table>
