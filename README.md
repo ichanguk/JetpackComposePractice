@@ -9,15 +9,15 @@
 
 1. 이력서 앱
 
-<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/resume.png width="500" height="350">
+<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/resume.png width="650" height="350">
 
 2. 주사위 굴리기 앱
 
-<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/dice.png width="500" height="350">
+<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/dice.png width="650" height="350">
 
 3. 그래프 앱
 
-<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/graph.png width="500" height="350">
+<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/graph.png width="650" height="350">
 
 
 
