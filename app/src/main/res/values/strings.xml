@@ -23,4 +23,5 @@
     <string name="title_activity_drawer">DrawerActivity</string>
     <string name="title_activity_dialog">DialogActivity</string>
     <string name="title_activity_canvas">CanvasActivity</string>
+    <string name="title_activity_resume">ResumeActivity</string>
 </resources>
