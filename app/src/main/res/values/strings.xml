@@ -29,4 +29,5 @@
     <string name="title_activity_calendar">CalendarActivity</string>
     <string name="title_activity_dark_light_theme">DarkLightThemeActivity</string>
     <string name="title_activity_text_style">TextStyleActivity</string>
+    <string name="title_activity_font">FontActivity</string>
 </resources>
