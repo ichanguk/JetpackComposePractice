@@ -5,6 +5,23 @@
 
 - Jetpack Compose 연습을 위한 저장소입니다.
 
+## *Contents Preview*
+
+1. 이력서 앱
+
+<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/resume.png width="500" height="350">
+
+2. 주사위 굴리기 앱
+
+<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/dice.png width="500" height="350">
+
+3. 그래프 앱
+
+<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/graph.png width="500" height="350">
+
+
+
+
 ## *Contents*
 
 <table>
@@ -13,6 +30,7 @@
       <th colspan="4"; style="text-align:center">UI 연습</th>
     </tr>
   </thead>
+  <tbody>
     <tr>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/TextActivity.kt">Text</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ButtonToastActivity.kt">Button, Toast</a></td>
@@ -50,5 +68,21 @@
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/CanvasActivity.kt">Canvas</a></td>
         <td></td>
       </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="4"; style="text-align:center">UI 실습</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ResumeActivity.kt">이력서 앱</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/DiceActivity.kt">주사위 굴리기 앱</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/GraphActivity.kt">그래프 앱</a></td>
+        <td></td>
+    </tr>
   </tbody>
 </table>
