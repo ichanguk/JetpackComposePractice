@@ -30,4 +30,5 @@
     <string name="title_activity_dark_light_theme">DarkLightThemeActivity</string>
     <string name="title_activity_text_style">TextStyleActivity</string>
     <string name="title_activity_font">FontActivity</string>
+    <string name="title_activity_shape">ShapeActivity</string>
 </resources>
