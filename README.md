@@ -20,7 +20,7 @@
 <img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/graph.png width="650" height="420">
 
 4. 달력 앱
-<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/Calendar.png width="650" height="420">
+<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/Calendar.png width="450" height="300">
 
 
 ## *Contents*
