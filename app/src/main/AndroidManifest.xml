@@ -15,9 +15,9 @@
         android:theme="@style/Theme.JetpackComposePractice"
         tools:targetApi="31">
         <activity
-            android:name=".CalendarActivity"
+            android:name=".DarkLightThemeActivity"
             android:exported="true"
-            android:label="@string/title_activity_calendar"
+            android:label="@string/title_activity_dark_light_theme"
             android:theme="@style/Theme.JetpackComposePractice">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,10 +26,15 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".CalendarActivity"
+            android:exported="true"
+            android:label="@string/title_activity_calendar"
+            android:theme="@style/Theme.JetpackComposePractice"/>
+        <activity
             android:name=".GraphActivity"
             android:exported="true"
             android:label="@string/title_activity_graph"
-            android:theme="@style/Theme.JetpackComposePractice"/>
+            android:theme="@style/Theme.JetpackComposePractice" />
         <activity
             android:name=".DiceActivity"
             android:exported="true"
