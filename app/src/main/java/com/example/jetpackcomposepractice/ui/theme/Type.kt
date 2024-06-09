@@ -32,3 +32,19 @@ val Typography = Typography(
     )
     */
 )
+
+val TypographyTest = Typography(
+    titleLarge = TextStyle(
+        fontSize = 30.sp,
+        fontWeight = FontWeight.ExtraBold
+    ),
+    titleMedium = TextStyle(
+        fontSize = 20.sp,
+        fontWeight = FontWeight.Bold
+    ),
+    titleSmall = TextStyle(
+        fontSize = 10.sp,
+        fontWeight = FontWeight.SemiBold
+    )
+
+)
