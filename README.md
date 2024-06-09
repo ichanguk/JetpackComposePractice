@@ -20,6 +20,7 @@
 <img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/graph.png width="650" height="420">
 
 4. 달력 앱
+
 <img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/Calendar.png width="450" height="300">
 
 
@@ -68,6 +69,12 @@
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/DialogActivity.kt">Dialog</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/CanvasActivity.kt">Canvas</a></td>
         <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/DarkLightThemeActivity.kt">Dark / Light Theme</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/TextStyleActivity.kt">TextStyle</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/FontActivity.kt">Font</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ShapeActivity.kt">Shape</a></td>
       </tr>
   </tbody>
 </table>
