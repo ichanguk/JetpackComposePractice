@@ -17,7 +17,7 @@
         <activity
             android:name=".PocketmonActivity"
             android:exported="true"
-            android:label="@string/title_activity_pocketmon"
+            android:label="@string/title_activity_pokemon"
             android:theme="@style/Theme.JetpackComposePractice">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

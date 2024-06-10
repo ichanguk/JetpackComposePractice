@@ -32,4 +32,6 @@
     <string name="title_activity_font">FontActivity</string>
     <string name="title_activity_shape">ShapeActivity</string>
     <string name="title_activity_coupang">CoupangActivity</string>
+    <string name="title_activity_pokemon">PokemonActivity</string>
+
 </resources>
