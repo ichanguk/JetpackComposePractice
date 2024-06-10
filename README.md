@@ -81,10 +81,10 @@
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ShapeActivity.kt">Shape</a></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/BackgroundPaddingActivity.kt">background / padding 순서에 따른 차이</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/BackgroundPaddingActivity.kt">background / padding<br/>순서에 따른 차이</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ComposeToXMLActivity.kt">Compose → XML</a></td>
-        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/XMLInComposeActivity.kt">Compose 안에 XML 넣기</a></td>
-        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ComposeAndXMLActivity.kt">Compose와 XML 같이 쓰기</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/XMLInComposeActivity.kt">Compose 안에<br/>XML 넣기</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/ComposeAndXMLActivity.kt">Compose와 XML<br/>같이 쓰기</a></td>
       </tr>
   </tbody>
 </table>
