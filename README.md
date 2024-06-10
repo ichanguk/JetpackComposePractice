@@ -23,6 +23,10 @@
 
 <img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/Calendar.png width="450" height="300">
 
+5. 포켓몬 카드 앱
+
+<img src=https://github.com/ichanguk/JetpackComposePractice/blob/master/image/poketmon.png width="450" height="300">
+
 
 ## *Contents*
 
@@ -82,7 +86,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="4"; style="text-align:center">UI 실습</th>
+      <th colspan="5"; style="text-align:center">UI 실습</th>
     </tr>
   </thead>
   <tbody>
@@ -91,6 +95,7 @@
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/DiceActivity.kt">주사위 굴리기 앱</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/GraphActivity.kt">그래프 앱</a></td>
         <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/CalendarActivity.kt">달력 앱</a></td>
+        <td><a href="https://github.com/ichanguk/JetpackComposePractice/blob/master/app/src/main/java/com/example/jetpackcomposepractice/PokemonActivity.kt">포켓몬 카드 앱</a></td>
     </tr>
   </tbody>
 </table>
