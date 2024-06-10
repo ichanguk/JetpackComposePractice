@@ -15,9 +15,9 @@
         android:theme="@style/Theme.JetpackComposePractice"
         tools:targetApi="31">
         <activity
-            android:name=".ComposeToXMLActivity"
+            android:name=".XMLInComposeActivity"
             android:exported="true"
-            android:label="@string/title_activity_compose_to_xmlactivity"
+            android:label="@string/title_activity_xmlin_compose"
             android:theme="@style/Theme.JetpackComposePractice">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -26,14 +26,19 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".ComposeToXMLActivity"
+            android:exported="true"
+            android:label="@string/title_activity_compose_to_xmlactivity"
+            android:theme="@style/Theme.JetpackComposePractice"/>
+        <activity
             android:name=".HappyActivity"
             android:exported="false"
-            android:theme="@style/Theme.AppCompat.Light"/>
+            android:theme="@style/Theme.AppCompat.Light" />
         <activity
             android:name=".BackgroundPaddingActivity"
             android:exported="true"
             android:label="@string/title_activity_background_padding"
-            android:theme="@style/Theme.JetpackComposePractice"/>
+            android:theme="@style/Theme.JetpackComposePractice" />
         <activity
             android:name=".PocketmonActivity"
             android:exported="true"
