@@ -36,5 +36,6 @@
     <string name="title_activity_background_padding">BackgroundPaddingActivity</string>
     <string name="title_activity_compose_to_xmlactivity">ComposeToXMLActivity</string>
     <string name="title_activity_xmlin_compose">XMLInComposeActivity</string>
+    <string name="title_activity_compose_and_xmlactivity">ComposeAndXMLActivity</string>
 
 </resources>
