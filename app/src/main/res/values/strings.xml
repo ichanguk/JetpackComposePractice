@@ -33,5 +33,6 @@
     <string name="title_activity_shape">ShapeActivity</string>
     <string name="title_activity_coupang">CoupangActivity</string>
     <string name="title_activity_pokemon">PokemonActivity</string>
+    <string name="title_activity_background_padding">BackgroundPaddingActivity</string>
 
 </resources>
